@@ -1,4 +1,4 @@
-# minibank
+# Minibank
 
 ## Description
 
